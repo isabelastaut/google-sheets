@@ -40,6 +40,13 @@ Open the habit tracker (you can do this by [clicking here](https://docs.google.c
 7. On your IDE, open the `.json` file and copy the `"client_email"`;
 8. Open the habit tracker and share it with the e-mail you just copied as `Editor`;
 
+
+### Set up 
+
+1. Open the Command Prompt and type `pip install gspread oauth2client` to install the needed modules.
+2. Rename the `.json` file to `credentials.json`
+
+
 -----
 
 To be continued
